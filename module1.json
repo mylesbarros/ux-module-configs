@@ -35,7 +35,7 @@
               "tasks": [
                 {
                   "name": "Task 3",
-                  "priority": "low"
+                  "priority": "high"
                 },
                 {
                   "name": "Task 4",
@@ -73,7 +73,7 @@
       "employees": [
         {
           "name": "Charlie",
-          "position": "Marketing Specialist",
+          "position": "Businessman",
           "campaigns": [
             {
               "name": "Campaign X",
@@ -81,7 +81,7 @@
             },
             {
               "name": "Campaign Y",
-              "status": "inactive"
+              "status": "active"
             }
           ]
         }
