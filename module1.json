@@ -1,0 +1,92 @@
+{
+  "company": "TechCorp",
+  "address": {
+    "street": "123 Main St",
+    "city": "Metropolis",
+    "state": "Techsylvania",
+    "zipcode": "54321"
+  },
+  "departments": [
+    {
+      "name": "Engineering",
+      "manager": "John Doe",
+      "employees": [
+        {
+          "name": "Alice",
+          "position": "Software Engineer",
+          "projects": [
+            {
+              "name": "Project A",
+              "status": "ongoing",
+              "tasks": [
+                {
+                  "name": "Task 1",
+                  "priority": "high"
+                },
+                {
+                  "name": "Task 2",
+                  "priority": "medium"
+                }
+              ]
+            },
+            {
+              "name": "Project B",
+              "status": "completed",
+              "tasks": [
+                {
+                  "name": "Task 3",
+                  "priority": "low"
+                },
+                {
+                  "name": "Task 4",
+                  "priority": "medium"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bob",
+          "position": "Hardware Engineer",
+          "projects": [
+            {
+              "name": "Project C",
+              "status": "pending",
+              "tasks": [
+                {
+                  "name": "Task 5",
+                  "priority": "high"
+                },
+                {
+                  "name": "Task 6",
+                  "priority": "medium"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marketing",
+      "manager": "Jane Smith",
+      "employees": [
+        {
+          "name": "Charlie",
+          "position": "Marketing Specialist",
+          "campaigns": [
+            {
+              "name": "Campaign X",
+              "status": "active"
+            },
+            {
+              "name": "Campaign Y",
+              "status": "inactive"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
